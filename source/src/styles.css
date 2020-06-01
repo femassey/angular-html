@@ -1,0 +1,10 @@
+/* Loader Animation */
+svg path,
+svg rect{
+  fill: black;
+}
+
+/* Animations */
+.animate__animated.animate__fadeIn {
+  --animate-duration: 0.8s;
+}
